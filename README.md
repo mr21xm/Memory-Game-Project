@@ -4,6 +4,11 @@ What is the Memory Game
 ---
 This is a game that makes the user use his memory to match the cards with the same icons.
 
+Code dependencies
+---
+* Google Fonts
+* Font-awsome
+* CSS animate
 
 Challenge
 ---
